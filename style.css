@@ -32,7 +32,8 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #cf3805;
-	background: #ededed;
+	background: #ffffff
+	<! ededed>
 }
 
 #name h1 {
