@@ -25,15 +25,15 @@ p {
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #ffffff;
+	background: #f3f3f3;
 	margin: 30px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf3805;
+	border-bottom: 2px solid #ffffff;
 	background: #ffffff
-	<! ededed>
+	<! ededed cf3805>
 }
 
 #name h1 {
